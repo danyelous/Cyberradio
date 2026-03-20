@@ -17,7 +17,7 @@ CYBER//RADIO is a self-contained web application that streams live internet radi
 
 | Desktop | Mobile |
 |---------|--------|
-| ![Desktop view](screenshot1.jpg) | ![Mobile view](screenshot2.jpg) |
+| ![Desktop view](screenshot1.png) | ![Mobile view](screenshot2.png) |
 
 ---
 
