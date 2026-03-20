@@ -11,6 +11,8 @@
 
 CYBER//RADIO is a self-contained web application that streams live internet radio stations across genres like synthwave, retrowave, darksynth, vaporwave, lofi, deep house, and more. It runs entirely in the browser — just open `index.html` and start listening.
 
+**Check it on https://cyberradio.wd5.io/**
+
 ---
 
 ## Screenshots
